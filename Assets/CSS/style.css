@@ -1,0 +1,65 @@
+
+body{
+background: url("../Images/alteredbeast.jpg");
+background-size: cover;
+height: 660px;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+
+}
+
+.crystals{
+display: flex;
+justify-content: space-around;   
+align-items: center;
+
+}
+
+.crystal{
+    border: 1px solid green;
+    height: 124px;
+    width: 210px;
+}
+
+img{ 
+    widows: 50px;
+}
+
+#result{
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+    font-size: 15px;
+    font-family: 'Gloria Hallelujah', cursive;
+font-family: 'Yesteryear', cursive;
+font-family: 'Rock Salt', cursive;
+font-family: 'Eater', cursive;
+}
+
+
+#previous{
+    font-size: 30px;
+}
+
+#win{
+    font-size: 30px;
+}
+
+#lost{
+    font-size: 30px;  
+}
+
+
+
+#rules{
+    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'Yesteryear', cursive;
+    font-family: 'Rock Salt', cursive;
+background-color: red;
+text-align: center;
+margin: auto;
+width: 60%;
+font-size: 12px;
+
+}
